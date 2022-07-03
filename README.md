@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-Harshsingh12344/Harshsingh12344 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Harshsingh12344/learningis a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
